@@ -2,7 +2,7 @@
 
 ⚠⚠ UNZIP FILES INSIDE SONGS FOLDER ⚠⚠
 
-⚠ IF YOU WANT TO RUN "mp42wmv.bat" YOU NEED TO COPY A VERSION OF FFMPEG (https://github.com/BtbN/FFmpeg-Builds/releases) INSIDE SONGS FOLDER ⚠
+⚠ IF YOU WANT TO RUN "mp42wmv.bat" YOU NEED TO COPY A VERSION OF FFMPEG.EXE (https://github.com/BtbN/FFmpeg-Builds/releases) INSIDE SONGS FOLDER ⚠
 
 How to download?
 - select the button "<> Code" and press download
