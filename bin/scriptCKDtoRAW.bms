@@ -1,0 +1,8 @@
+get NAME basename
+get SIZE asize
+math SIZE -= 0x2C
+string NAME -= ".dat"
+string NAME -= ".png"
+string NAME -= ".tga"
+string NAME += ".raw"
+log NAME 0x2C SIZE

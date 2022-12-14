@@ -1,0 +1,10 @@
+idstring ""
+get NAME basename
+get SIZE asize
+math SIZE -= 0x0
+string NAME -= ".dat"
+string NAME -= ".png"
+string NAME -= ".tga"
+string NAME -= ".raw"
+string NAME += ".gtf"
+log NAME 0x0 SIZE
